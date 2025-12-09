@@ -42,24 +42,29 @@ function QuienesSomos() {
           
           <div className="quienes-somos-contenido">
             <p className="quienes-somos-intro">
-              En <strong>Corte A</strong> somos especialistas en carpintería artesanal con una pasión 
-              por transformar espacios interiores a través del diseño y la calidad. Nuestra experiencia 
-              nos permite ofrecer soluciones únicas que combinan funcionalidad, estética y durabilidad.
+              <strong>Corte A</strong> es un estudio–taller especializado en el diseño y fabricación de
+              muebles a medida y proyectos personalizados para arquitectos y desarrolladores.
             </p>
 
             <p className="quienes-somos-parrafo">
-              Nos especializamos en la creación de muebles a medida, placares personalizados y 
-              proyectos de carpintería integral. Cada pieza que diseñamos refleja nuestro compromiso 
-              con la excelencia, utilizando materiales de primera calidad y técnicas tradicionales 
-              perfeccionadas con tecnología moderna.
+              Cada pieza que creamos es única: nace desde un concepto, se modela en detalle y se ejecuta
+              con precisión dentro de nuestro taller propio.
             </p>
 
             <p className="quienes-somos-parrafo">
-              Nuestro compromiso va más allá de la fabricación. Trabajamos de cerca con cada cliente 
-              para entender sus necesidades, espacios y estilo de vida, garantizando que cada proyecto 
-              no solo cumpla con las expectativas, sino que las supere. Ya sea para hogares, 
-              oficinas o espacios comerciales, nuestro equipo está preparado para hacer realidad 
-              tu visión con precisión y dedicación.
+              Somos un equipo interdisciplinario que combina diseño, ingeniería, producción y gestión,
+              permitiendo acompañar al cliente desde la idea inicial hasta la entrega final. Nuestro
+              enfoque es 100% personalizado: entendemos necesidades, proponemos soluciones y
+              transformamos espacios con muebles que unen estética, funcionalidad y durabilidad.
+            </p>
+
+            <p className="quienes-somos-parrafo">
+              En Corte A creemos que cada diseño merece ser único, y cada cliente, acompañado.
+            </p>
+
+            <p className="quienes-somos-parrafo">
+              Por eso trabajamos con dedicación, tecnología y oficio para convertir ideas en realidades
+              que perduran.
             </p>
           </div>
         </div>
@@ -81,10 +86,10 @@ function QuienesSomos() {
             <div className="quienes-somos-divider"></div>
 
             <div className="quienes-somos-estadistica">
-              <div className="quienes-somos-estadistica-numero">120+</div>
+              <div className="quienes-somos-estadistica-numero">20+</div>
               <div className="quienes-somos-estadistica-label">PROYECTOS</div>
               <p className="quienes-somos-estadistica-descripcion">
-                Más de 120 proyectos realizados con diseño personalizado adaptado al estilo de vida de cada cliente.
+                Más de 20 proyectos realizados con diseño personalizado adaptado al estilo de vida de cada cliente.
               </p>
             </div>
 
